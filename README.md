@@ -69,7 +69,7 @@ Contributions to enhance the model or improve methodologies are highly appreciat
 
 ## License
 
-This project is released under the MIT License. See the LICENSE file for more details.
+This project is released under the MIT License. See the `LICENSE` file for more details.
 
 ## Contact
 
